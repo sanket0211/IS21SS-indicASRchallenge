@@ -20,17 +20,21 @@
 <h4> <b> Vivek Seshadri </b> </h4> Vivek is a Senior Researcher at Microsoft Research India. His recent work focuses on building a digital work marketplace that is accessible to workers in rural communities. 
 <br> <b> Email: </b>  visesha@microsoft.com
 
-Preethi Jyothi: Preethi is an Assistant Professor in the Department of Computer Science and Engineering at IIT Bombay. Her research interests include machine learning applied to speech and text and building computational models for code-switched speech and text. For more details, please refer to: https://www.cse.iitb.ac.in/~pjyothi 
-Email: pjyothi@cse.iitb.ac.in
-Sunita Sarawagi: Sunita is Institute Chair Professor in the Department of Computer Science and Engineering, and heads the Center for Machine Intelligence and Data Science  at IIT Bombay. Her research interests include machine learning for structured 
+<h4> <b> Preethi Jyothi </b> </h4>  Preethi is an Assistant Professor in the Department of Computer Science and Engineering at IIT Bombay. Her research interests include machine learning applied to speech and text and building computational models for code-switched speech and text. For more details, please refer to: https://www.cse.iitb.ac.in/~pjyothi 
+<br> <b>  Email: </b> pjyothi@cse.iitb.ac.in 
+
+<h4> <b> Sunita Sarawagi </b> </h4>  Sunita is Institute Chair Professor in the Department of Computer Science and Engineering, and heads the Center for Machine Intelligence and Data Science  at IIT Bombay. Her research interests include machine learning for structured 
 predictions, graphical models, and data analytics. More information here: https://www.cse.iitb.ac.in/~sunita/
-Email: sunita@iitb.ac.in
-Samarth Bharadwaj: Samarth is a Senior Researcher and Manager of the Speech and Language team at IBM Research, India.  His current focus is on bringing Indic languages to IBM's product portfolios in text and speech. His research interests include machine learning for speech recognition, natural language processing and computer vision.  
-Email: samarth.b@in.ibm.com
-Ashish Mittal: Ashish is an Advisory Research Engineer at IBM Research, India and a PhD scholar at IIT Bombay. His research interests include speech recognition and natural language processing especially in the low resource and multilingual settings. 
-Email: arakeshk@in.ibm.com
-Shreya Khare: Shreya is an Advisory Research Engineer with IBM Research Labs, India. Her current research focus is on infusing machine learning, speech and natural language processing to build systems for multilingual communities.  
-Email: skhare34@in.ibm.com
+<br> <b>  Email: </b> sunita@iitb.ac.in 
+
+<h4> <b> Samarth Bharadwaj </b> </h4> Samarth is a Senior Researcher and Manager of the Speech and Language team at IBM Research, India.  His current focus is on bringing Indic languages to IBM's product portfolios in text and speech. His research interests include machine learning for speech recognition, natural language processing and computer vision.  
+<br> <b>  Email: </b> samarth.b@in.ibm.com
+
+<h4> <b> Ashish Mittal </b> </h4> Ashish is an Advisory Research Engineer at IBM Research, India and a PhD scholar at IIT Bombay. His research interests include speech recognition and natural language processing especially in the low resource and multilingual settings. 
+<br> <b> Email: </b> arakeshk@in.ibm.com
+
+<h4> <b> Shreya Khare  </b> </h4>  Shreya is an Advisory Research Engineer with IBM Research Labs, India. Her current research focus is on infusing machine learning, speech and natural language processing to build systems for multilingual communities.  
+<br> <b> Email: </b> skhare34@in.ibm.com
 
 <h2> Shared Task Committee </h2>
 <h5> Sanket Shah, Microsoft Research India </h5>
