@@ -82,7 +82,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 
-<h2 id="general">General Information</h2>
+<h2 id="general">Introduction</h2>
 
 
 Recently, there have been increasing interests in multilingual automatic speech recognition (ASR) where a speech recognition system is built to cater to multiple low resource languages by taking advantage of low amount of labeled corpora in multiple languages. On the other hand, with multilingualism becoming common in today’s world, there has been increasing interest in code-switching ASR as well. In code-switching, multiple languages are freely interchanged within a single sentence or between sentences. We would like to propose a special session and challenge in Interspeech 2021 on multilingual and code-switching ASR for low resource Indian languages, which have not been widely explored. The success of low-resource multilingual and code-switching ASR often depends on the variety of languages in terms of their acoustics, linguistic characteristics as well as amount of data available and how these are carefully considered in building the ASR system. In this challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling.
@@ -292,7 +292,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 
 
-<h2 id="schedule">Schedule</h2>
+<h2 id="schedule">Timeline</h2>
 
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
