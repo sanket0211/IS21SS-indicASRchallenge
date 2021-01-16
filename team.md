@@ -11,12 +11,15 @@
 <h4> <b> Raoul Nanavati  </b> </h4>  Raoul is the CEO of Navana Tech - a conversational AI startup focused on creating voice-first regional language solutions. 
 <br> <b> Email: </b> raoul@navanatech.in 
 
-Jai Nanavati – Jai is the CTO of Navana Tech  - a conversational AI startup focused on creating voice-first regional language solutions. He is a computer engineering graduate from the University of Michigan Ann Arbor and has previously worked as a system architect and blockchain application developer. 
-Email: jai@navanatech.in 
-Srinivasa Raghavan – Srinivasa is the Lead Speech Scientist at Navana Tech India Private Limited. His research focus is in building automatic speech recognition technologies for low resource Indic languages. 
-Email: srinivasa@navanatech.in 
-Vivek Seshadri – Vivek is a Senior Researcher at Microsoft Research India. His recent work focuses on building a digital work marketplace that is accessible to workers in rural communities. 
-Email: visesha@microsoft.com
+<h4> <b> Jai Nanavati </b> </h4> Jai is the CTO of Navana Tech  - a conversational AI startup focused on creating voice-first regional language solutions. He is a computer engineering graduate from the University of Michigan Ann Arbor and has previously worked as a system architect and blockchain application developer. 
+<br> <b> Email: </b> jai@navanatech.in 
+
+<h4> <b>  Srinivasa Raghavan </b> </h4> Srinivasa is the Lead Speech Scientist at Navana Tech India Private Limited. His research focus is in building automatic speech recognition technologies for low resource Indic languages. 
+<br> <b>  Email: </b> srinivasa@navanatech.in 
+
+<h4> <b> Vivek Seshadri </b> </h4> Vivek is a Senior Researcher at Microsoft Research India. His recent work focuses on building a digital work marketplace that is accessible to workers in rural communities. 
+<br> <b> Email: </b>  visesha@microsoft.com
+
 Preethi Jyothi: Preethi is an Assistant Professor in the Department of Computer Science and Engineering at IIT Bombay. Her research interests include machine learning applied to speech and text and building computational models for code-switched speech and text. For more details, please refer to: https://www.cse.iitb.ac.in/~pjyothi 
 Email: pjyothi@cse.iitb.ac.in
 Sunita Sarawagi: Sunita is Institute Chair Professor in the Department of Computer Science and Engineering, and heads the Center for Machine Intelligence and Data Science  at IIT Bombay. Her research interests include machine learning for structured 
@@ -30,8 +33,8 @@ Shreya Khare: Shreya is an Advisory Research Engineer with IBM Research Labs, In
 Email: skhare34@in.ibm.com
 
 <h2> Shared Task Committee: </h2>
-<h4> Sanket Shah, Microsoft Research India </h4>
-<h4> Vikas Joshi, Microsoft Research India </h4>
+<h6> Sanket Shah, Microsoft Research India </h6>
+<h6> Vikas Joshi, Microsoft Research India </h6>
 <h4>  Sunayana Sitaram, Microsoft Research India </h4>
 Saurabh Vyas, Navana Tech
 Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore
@@ -39,7 +42,7 @@ Chiranjeevi Yarra, IIIT, Hyderabad
 
 <h2> Program committee: </h2>
 
-<h4> Hema Murthy, IIT Madras </h4>
-<h4> S. Umesh, IIT Madras </h4> 
+<h5> Hema Murthy, IIT Madras </h5>
+<h5> S. Umesh, IIT Madras </h5> 
 Tara Sainath, Google Inc.
 Shinji Watanabe, Johns Hopkins University
