@@ -2,13 +2,15 @@
 <h2> Organizing Committee </h2> 
 <h4> <b> Kalika Bali </b> </h4>  Kalika is a Principal Researcher at Microsoft Research Labs, India. Her research focus is in the area of Speech and Language Technology, especially in the use of linguistic models for building technology that offers a more natural Human-Computer as well as Computer-Mediated interactions. 
 <br> <b> Email: </b> kalikab@microsoft.com 
-
 <br>
 
-Prasanta Kumar Ghosh – Prasanta is an associate professor at the Electrical Engineering department in Indian Institute of Science (IISc). His research interests include speech production, speech recognition, pronunciation evaluation in multilingual settings. 
-Email: prasantg@iisc.ac.in 
-Raoul Nanavati – Raoul is the CEO of Navana Tech - a conversational AI startup focused on creating voice-first regional language solutions. 
-Email: raoul@navanatech.in 
+<h4> <b> Prasanta Kumar Ghosh </b> </h4>   Prasanta is an associate professor at the Electrical Engineering department in Indian Institute of Science (IISc). His research interests include speech production, speech recognition, pronunciation evaluation in multilingual settings. 
+<br> <b> Email: </b> prasantg@iisc.ac.in 
+<br>
+
+<h4> <b> Raoul Nanavati  </b> </h4>  Raoul is the CEO of Navana Tech - a conversational AI startup focused on creating voice-first regional language solutions. 
+<br> <b> Email: </b> raoul@navanatech.in 
+
 Jai Nanavati – Jai is the CTO of Navana Tech  - a conversational AI startup focused on creating voice-first regional language solutions. He is a computer engineering graduate from the University of Michigan Ann Arbor and has previously worked as a system architect and blockchain application developer. 
 Email: jai@navanatech.in 
 Srinivasa Raghavan – Srinivasa is the Lead Speech Scientist at Navana Tech India Private Limited. His research focus is in building automatic speech recognition technologies for low resource Indic languages. 
