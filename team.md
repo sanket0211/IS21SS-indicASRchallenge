@@ -1,7 +1,10 @@
 
-<h2> Organizing Committee: </h2> 
-Kalika Bali – Kalika is a Principal Researcher at Microsoft Research Labs, India. Her research focus is in the area of Speech and Language Technology, especially in the use of linguistic models for building technology that offers a more natural Human-Computer as well as Computer-Mediated interactions. 
-Email: kalikab@microsoft.com 
+<h2> Organizing Committee </h2> 
+<b> Kalika Bali </b> – Kalika is a Principal Researcher at Microsoft Research Labs, India. Her research focus is in the area of Speech and Language Technology, especially in the use of linguistic models for building technology that offers a more natural Human-Computer as well as Computer-Mediated interactions. 
+<b> Email: </b> kalikab@microsoft.com 
+
+<br>
+
 Prasanta Kumar Ghosh – Prasanta is an associate professor at the Electrical Engineering department in Indian Institute of Science (IISc). His research interests include speech production, speech recognition, pronunciation evaluation in multilingual settings. 
 Email: prasantg@iisc.ac.in 
 Raoul Nanavati – Raoul is the CEO of Navana Tech - a conversational AI startup focused on creating voice-first regional language solutions. 
