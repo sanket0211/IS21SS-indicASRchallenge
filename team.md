@@ -1,7 +1,7 @@
 
 <h2> Organizing Committee </h2> 
-<h4> <b> Kalika Bali </b> </h4> – Kalika is a Principal Researcher at Microsoft Research Labs, India. Her research focus is in the area of Speech and Language Technology, especially in the use of linguistic models for building technology that offers a more natural Human-Computer as well as Computer-Mediated interactions. 
-<br> <h6> Email: </h6> kalikab@microsoft.com 
+<h4> <b> Kalika Bali </b> </h4>  Kalika is a Principal Researcher at Microsoft Research Labs, India. Her research focus is in the area of Speech and Language Technology, especially in the use of linguistic models for building technology that offers a more natural Human-Computer as well as Computer-Mediated interactions. 
+<br> <b> Email: </b> kalikab@microsoft.com 
 
 <br>
 
