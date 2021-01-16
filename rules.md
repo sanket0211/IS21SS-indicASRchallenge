@@ -17,3 +17,22 @@
 </li>
 
 </ul>
+
+<h2> The challenge comprises two sub-tasks as described below: </h2>
+
+<h3>Sub-task1 </h3>
+This sub-task involves building a multilingual ASR system in six languages, namely, Hindi, Marathi, Odia, Telugu, Tamil, and Gujarati. The blind test set will comprise recordings from a subset (or all) of these six languages
+
+<h3>Sub-task2 </h3>
+This sub-task involves building a code-switching ASR system separately for Hindi-English and Bengali-English code-switched pairs. The blind test set will comprise recordings from these two code-switched language pairs.
+<br>
+
+Submissions to this special session should show results on one or more of the above mentioned tasks. Submissions on any topic related to building multilingual code-switching ASR are welcome. This includes (but is not limited to):
+<ul>
+  
+<li> Acoustic modeling for multilingual ASR models </li>
+<li> Language modeling for multilingual ASR models </li>
+<li> Multilingual ASR model for code-switching </li> 
+<li> Language modeling for code-switching </li> 
+<li> Linguistically informed models for code-switching </li>
+
