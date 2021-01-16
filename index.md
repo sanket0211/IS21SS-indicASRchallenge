@@ -344,17 +344,4 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 
 
-<h2 id="setup">Setup</h2>
 
-
-
-
-
-
-{% if site.carpentry == "swc" %}
-{% include swc/setup.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/setup.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/setup.html %}
-{% endif %}
