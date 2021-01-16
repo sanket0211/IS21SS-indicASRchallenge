@@ -30,16 +30,16 @@ Shreya Khare: Shreya is an Advisory Research Engineer with IBM Research Labs, In
 Email: skhare34@in.ibm.com
 
 <h2> Shared Task Committee: </h2>
-Sanket Shah, Microsoft Research India
-Vikas Joshi, Microsoft Research India
-Sunayana Sitaram, Microsoft Research India
+<h4> Sanket Shah, Microsoft Research India </h4>
+<h4> Vikas Joshi, Microsoft Research India </h4>
+<h4>  Sunayana Sitaram, Microsoft Research India </h4>
 Saurabh Vyas, Navana Tech
 Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore
 Chiranjeevi Yarra, IIIT, Hyderabad
 
 <h2> Program committee: </h2>
 
-Hema Murthy, IIT Madras
-S. Umesh, IIT Madras
+<h4> Hema Murthy, IIT Madras </h4>
+<h4> S. Umesh, IIT Madras </h4> 
 Tara Sainath, Google Inc.
 Shinji Watanabe, Johns Hopkins University
