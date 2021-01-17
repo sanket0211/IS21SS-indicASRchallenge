@@ -1,3 +1,5 @@
+<p>
+  
 <h2> Program committee </h2>
 
 <h5> Hema Murthy, IIT Madras </h5>
@@ -5,6 +7,9 @@
 <h5> Tara Sainath, Google Inc. </h5> 
 <h5> Shinji Watanabe, Johns Hopkins University </h5> 
 
+</p>
+
+<p>
 
 <h2> Shared Task Committee </h2>
 <h5> Sanket Shah, Microsoft Research India </h5>
@@ -13,6 +18,8 @@
 <h5> Saurabh Vyas, Navana Tech </h5>
 <h5>  Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore </h5>
 <h5> Chiranjeevi Yarra, IIIT, Hyderabad </h5>
+
+</p>
 
 
 <h2> Organizing Committee </h2> 
