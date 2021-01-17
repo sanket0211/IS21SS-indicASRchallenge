@@ -82,22 +82,16 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 
-<h2 id="general">Introduction</h2>
-
-<p>
-Recently, there have been increasing interests in multilingual automatic speech recognition (ASR) where a speech recognition system is built to cater to multiple low resource languages by taking advantage of low amount of labeled corpora in multiple languages. On the other hand, with multilingualism becoming common in today’s world, there has been increasing interest in code-switching ASR as well. In code-switching, multiple languages are freely interchanged within a single sentence or between sentences. We would like to propose a special session and challenge in Interspeech 2021 on multilingual and code-switching ASR for low resource Indian languages, which have not been widely explored. The success of low-resource multilingual and code-switching ASR often depends on the variety of languages in terms of their acoustics, linguistic characteristics as well as amount of data available and how these are carefully considered in building the ASR system. In this challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling.
-</p>
+<h2 id="general"> Motivation </h2>
 
 <p>
 India is a country of language continuum, where every few kilometers the dialect/language changes. Various language families or genealogical types have been reported, in which the vast number of Indian languages can be classified, including Austro-Asiatic, Dravidian, Indo-Aryan, Tibeto-Burman and more recently, Tai-Kadai and Great Andamanese. However, there are no boundaries among these language families, rather languages across different language families share linguistic traits including retroflex sounds, SOV word order, absence of prepositions and many more resulting in acoustic and linguistic richness. According to the 2001 census, 29 Indian languages have more than a million speakers. Among these, 22 languages have been given the status of official languages by the Government of India. Most of these languages are low resource. Many of these languages do not have a written script and hence, speech technology solutions would greatly benefit such communities. Code-switching between an Indian language and (Indian) English has been a normal feature of everyday speech. Understanding code-switching patterns in different languages and developing accurate code-switching ASR remain a challenge due to the lack of large code-switched corpora. Thus, techniques that exploit unique properties and similarities among the Indian languages could be useful for building multilingual and code-switching ASR systems in these resource constrained settings.
-</p>
+
+
+<h2 id="general">Challenge Details </h2>
 
 <p>
-We will be providing a total of 630 hours of data in six Indian languages, namely, Hindi, Marathi, Odia, Bengali, Telugu, Tamil and Gujarati. This includes code-switched transcribed speech in two code-switched language pairs, Hindi-English and Bengali-English. Domains of the speech recordings vary across different languages. 
- </p>
-
-<p>
-For example, the Odia data comes from healthcare, agriculture and financial domains. The Hind-English and Bengali-English data are drawn from a repository of technical lectures on a diverse range of topics in computer science. For more description on this, please refer to the Dataset section <LINK>. The participants in this challenge will be required to use only the released data to build ASR systems in these languages, which will make the task fair for all participants and direct the focus of the work to the low resource setting. However, we will not restrict participants from only working on one of the components of the multilingual and code-switching ASR pipeline – participants will be free to innovate in any aspect of the multilingual and code-switching ASR system as long as they only use the data provided.  We will release a baseline system that participants can compare their systems against and use as a starting point.  During testing, we will release a held-out blind test set that the systems will be evaluated on.
+The Interspeech 2021 special session on multilingual and code-switching ASR for low resource Indian languages focuses on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling. We will be providing a total of 630 hours of data in six Indian languages, namely, Hindi, Marathi, Odia, Bengali, Telugu, Tamil and Gujarati. This includes code-switched transcribed speech in two code-switched language pairs, Hindi-English and Bengali-English. Domains of the speech recordings vary across different languages. For example, the Odia data comes from healthcare, agriculture and financial domains. The Hind-English and Bengali-English data are drawn from a repository of technical lectures on a diverse range of topics in computer science. For more description on this, please refer to the Dataset section <LINK>. The participants in this challenge will be required to use only the released data to build ASR systems in these languages, which will make the task fair for all participants and direct the focus of the work to the low resource setting. However, we will not restrict participants from only working on one of the components of the multilingual and code-switching ASR pipeline – participants will be free to innovate in any aspect of the multilingual and code-switching ASR system as long as they only use the data provided.  We will release a baseline system that participants can compare their systems against and use as a starting point.  During testing, we will release a held-out blind test set that the systems will be evaluated on.
   </p>
 
 {% comment %}
@@ -163,33 +157,6 @@ Modify the block below if there are any special requirements.
 
 
 
-
-{% comment %}
-CONTACT EMAIL ADDRESS
-
-Display the contact email address set in the configuration file.
-{% endcomment %}
-<p id="contact">
-  <strong>Contact:</strong>
-  Please email
-  {% if page.email %}
-  {% for email in page.email %}
-  {% if forloop.last and page.email.size > 1 %}
-  or
-  {% else %}
-  {% unless forloop.first %}
-  ,
-  {% endunless %}
-  {% endif %}
-  <a href='mailto:{{email}}'>{{email}}</a>
-  {% endfor %}
-  {% else %}
-  to-be-announced
-  {% endif %}
-  for more information.
-</p>
-
-
 {% comment %}
 WHO CAN ATTEND?
 
@@ -236,11 +203,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 {% endif %}
 
 
-
-
-
-
-<h2 id="schedule">Timeline</h2>
+<h2 id="schedule"> Important Dates </h2>
 
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
@@ -253,5 +216,27 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 
 
+CONTACT EMAIL ADDRESS
 
+Display the contact email address set in the configuration file.
+{% endcomment %}
+<p id="contact">
+  <strong>Contact:</strong>
+  Please email
+  {% if page.email %}
+  {% for email in page.email %}
+  {% if forloop.last and page.email.size > 1 %}
+  or
+  {% else %}
+  {% unless forloop.first %}
+  ,
+  {% endunless %}
+  {% endif %}
+  <a href='mailto:{{email}}'>{{email}}</a>
+  {% endfor %}
+  {% else %}
+  to-be-announced
+  {% endif %}
+  for more information.
+</p>
 
