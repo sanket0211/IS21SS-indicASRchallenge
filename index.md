@@ -215,7 +215,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 <hr/>
 
-
+{% comment %}
 CONTACT EMAIL ADDRESS
 
 Display the contact email address set in the configuration file.
