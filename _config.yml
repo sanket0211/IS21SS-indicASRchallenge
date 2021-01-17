@@ -43,9 +43,7 @@ flavor: "FIXME"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Interspeech 2021 Special Session:
-Multilingual and code-switching ASR challenges for low resource Indian languages
-"
+title: "Interspeech 2021 Special Session on Multilingual and code-switching ASR challenges for low resource Indian languages"
 
 
 #------------------------------------------------------------
