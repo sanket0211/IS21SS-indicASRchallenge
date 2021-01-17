@@ -1,3 +1,19 @@
+<h2> Program committee </h2>
+
+<h5> Hema Murthy, IIT Madras </h5>
+<h5> S. Umesh, IIT Madras </h5> 
+<h5> Tara Sainath, Google Inc. </h5> 
+<h5> Shinji Watanabe, Johns Hopkins University </h5> 
+
+
+<h2> Shared Task Committee </h2>
+<h5> Sanket Shah, Microsoft Research India </h5>
+<h5> Vikas Joshi, Microsoft Research India </h5>
+<h5>  Sunayana Sitaram, Microsoft Research India </h5>
+<h5> Saurabh Vyas, Navana Tech </h5>
+<h5>  Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore </h5>
+<h5> Chiranjeevi Yarra, IIIT, Hyderabad </h5>
+
 
 <h2> Organizing Committee </h2> 
 <h4> <b> Kalika Bali </b> </h4>  Kalika is a Principal Researcher at Microsoft Research Labs, India. Her research focus is in the area of Speech and Language Technology, especially in the use of linguistic models for building technology that offers a more natural Human-Computer as well as Computer-Mediated interactions. 
@@ -35,18 +51,3 @@ predictions, graphical models, and data analytics. More information here: https:
 
 <h4> <b> Shreya Khare  </b> </h4>  Shreya is an Advisory Research Engineer with IBM Research Labs, India. Her current research focus is on infusing machine learning, speech and natural language processing to build systems for multilingual communities.  
 <br> <b> Email: </b> skhare34@in.ibm.com
-
-<h2> Shared Task Committee </h2>
-<h5> Sanket Shah, Microsoft Research India </h5>
-<h5> Vikas Joshi, Microsoft Research India </h5>
-<h5>  Sunayana Sitaram, Microsoft Research India </h5>
-<h5> Saurabh Vyas, Navana Tech </h5>
-<h5>  Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore </h5>
-<h5> Chiranjeevi Yarra, IIIT, Hyderabad </h5>
-
-<h2> Program committee </h2>
-
-<h5> Hema Murthy, IIT Madras </h5>
-<h5> S. Umesh, IIT Madras </h5> 
-<h5> Tara Sainath, Google Inc. </h5> 
-<h5> Shinji Watanabe, Johns Hopkins University </h5> 
