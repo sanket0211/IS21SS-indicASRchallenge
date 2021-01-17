@@ -1,7 +1,7 @@
-<h2> Challenge Rules [tentative] </h2>
+<h2> Challenge Rules  </h2> <span style="color:magenta"> *current tentative version </span>.
 
 <ul>
-<li>Participants can only use the audio and transcriptions provided to build their systems. They can choose to use the corresponding language’s data to build each system or combine the data and use it cross-lingually.
+<li>Participants can *only* use the audio and transcriptions provided to build their systems. They can choose to use the corresponding language’s data to build each system or combine the data and use it cross-lingually.
 </li>
 
 <li>Participants are expected to sign an agreement when they download the data and are expected to use the data only for research purposes. Participants who register but do not submit a system to the challenge are required to withdraw from the challenge.
@@ -20,10 +20,10 @@
 
 <h2> The challenge comprises two sub-tasks as described below: </h2>
 
-<h3>Sub-task1 </h3>
+<h3> Multilingual ASR (sub-task1) </h3>
 This sub-task involves building a multilingual ASR system in six languages, namely, Hindi, Marathi, Odia, Telugu, Tamil, and Gujarati. The blind test set will comprise recordings from a subset (or all) of these six languages
 
-<h3>Sub-task2 </h3>
+<h3> Code-switching ASR (sub-task2) </h3>
 This sub-task involves building a code-switching ASR system separately for Hindi-English and Bengali-English code-switched pairs. The blind test set will comprise recordings from these two code-switched language pairs.
 <br>
 
