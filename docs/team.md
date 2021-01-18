@@ -9,17 +9,7 @@
 
 </p>
 
-<p>
 
-<h2> Shared Task Committee </h2>
-<h5> Sanket Shah, Microsoft Research India </h5>
-<h5> Vikas Joshi, Microsoft Research India </h5>
-<h5>  Sunayana Sitaram, Microsoft Research India </h5>
-<h5> Saurabh Vyas, Navana Tech </h5>
-<h5>  Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore </h5>
-<h5> Chiranjeevi Yarra, IIIT, Hyderabad </h5>
-
-</p>
 
 
 <h2> Organizing Committee </h2> 
@@ -58,3 +48,18 @@ predictions, graphical models, and data analytics. More information here: https:
 
 <h4> <b> Shreya Khare  </b> </h4>  Shreya is an Advisory Research Engineer with IBM Research Labs, India. Her current research focus is on infusing machine learning, speech and natural language processing to build systems for multilingual communities.  
 <br> <b> Email: </b> skhare34@in.ibm.com
+
+<p>
+  
+
+<h2> Shared Task Committee </h2>
+<h5> Sanket Shah, Microsoft Research India </h5>
+<h5> Vikas Joshi, Microsoft Research India </h5>
+<h5>  Sunayana Sitaram, Microsoft Research India </h5>
+<h5> Saurabh Vyas, Navana Tech </h5>
+<h5>  Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore </h5>
+<h5> Chiranjeevi Yarra, IIIT, Hyderabad </h5>
+
+</p>
+
+
