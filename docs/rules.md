@@ -1,4 +1,4 @@
-<h2> Challenge Rules  </h2> <span style="color:magenta"> *current tentative version </span>.
+<h2> Challenge Rules  [TBD] </h2> <span style="color:magenta"> *current tentative version </span>.
 
 <ul>
 <li>Participants can *only* use the audio and transcriptions provided to build their systems. They can choose to use the corresponding language’s data to build each system or combine the data and use it cross-lingually.
