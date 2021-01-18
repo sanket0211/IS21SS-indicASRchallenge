@@ -59,7 +59,7 @@ predictions, graphical models, and data analytics. More information here: https:
 <h5> Saurabh Vyas, Navana Tech </h5>
 <h5>  Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore </h5>
 <h5> Chiranjeevi Yarra, IIIT, Hyderabad </h5>
-
+<h5> Karthik Sankarnaraynan, IBM Research India </h5>
 </p>
 
 
