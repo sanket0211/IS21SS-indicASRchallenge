@@ -18,7 +18,7 @@
    
 
       {% comment %} Always show link to home page. {% endcomment %}
-      <a class="navbar-brand" href="{{ relative_root_path }}{% link index.md %}">Home</a>
+      <a class="navbar-brand" href="{{ relative_root_path }}{% link index.md %}">Challenge Overview</a>
 
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -26,11 +26,13 @@
 
 	{% comment %} Always show code of conduct. {% endcomment %}
         <li><a href="{{ relative_root_path }}{% link team.md %}">Organizers</a></li>
-	 <li><a href="{{ relative_root_path }}{% link rules.md %}">Challenge Details</a></li>
+        <li><a href="{{ relative_root_path }}{% link timeline.md %}">Challenge Timeline</a></li>
+	 <li><a href="{{ relative_root_path }}{% link rules.md %}">Challenge Rules</a></li>
 
         {% if site.kind == "lesson" %}
 	{% comment %} Show setup instructions. {% endcomment %}
         <li><a href="{{ relative_root_path }}{% link data.md %}">Dataset</a></li>
+        <li><a href="{{ relative_root_path }}{% link contact.md %}">Contact</a></li>
 	      
 	
 
