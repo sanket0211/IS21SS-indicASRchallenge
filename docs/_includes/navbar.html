@@ -5,7 +5,7 @@
 {% include gh_variables.html %}
 {% include manual_episode_order.html %}
 
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -33,7 +33,7 @@
 	{% comment %} Show setup instructions. {% endcomment %}
         <li><a href="{{ relative_root_path }}{% link data.md %}">Dataset</a></li>
         <li><a href="{{ relative_root_path }}{% link contact.md %}">Contact</a></li>
-	      
+	      <button class="btn btn-danger navbar-btn">Register</button>
 	
 
         {% comment %} Show lesson episodes for lessons. {% endcomment %}
@@ -82,11 +82,7 @@
 	
 	{% endif %}
       </ul>
-      <form class="navbar-form navbar-right" role="search" id="search" onsubmit="google_search(); return false;">
-        <div class="form-group">
-          <input type="text" title="Google search" id="google-search" placeholder="Search..." aria-label="Google site search">
-        </div>
-      </form>
+      
     </div>
   </div>
 </nav>
