@@ -1,4 +1,3 @@
-<h2 id="schedule"> Important Dates </h2>
 
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
