@@ -3,22 +3,22 @@
 <table id="tablePreview" class="table">
   <tbody>
     <tr>
-      <td><img src="./assets/img/persons/hema_murthy.jpg" alt="" border=3 height=100 width=100></img></td>
-      <td><img src="./assets/img/persons/s_umesh.jpg" alt="" border=3 height=100 width=100></img></td>
-      <td><img src="./assets/img/persons/tara_sainath.jpg" alt="" border=3 height=100 width=100></img></td>
-      <td><img src="./assets/img/persons/shinji_watanabe.jpg" alt="" border=3 height=100 width=100></img></td>
+      <td style="text-align:center"><img src="./assets/img/persons/hema_murthy.jpg" alt="" border=3 height=100 width=100></td>
+      <td style="text-align:center"><img src="./assets/img/persons/s_umesh.jpg" alt="" border=3 height=100 width=100></td>
+      <td style="text-align:center"><img src="./assets/img/persons/tara_sainath.jpg" alt="" border=3 height=100 width=100></td>
+      <td style="text-align:center"><img src="./assets/img/persons/shinji_watanabe.jpg" alt="" border=3 height=100 width=100></td>
     </tr>
     <tr>
-      <td href='https://www.cse.iitm.ac.in/~hema/'>Hema Murthy</td>
-      <td href='http://www.ee.iitm.ac.in/~umeshs/'>S. Umesh</td>
-      <td href='https://research.google/people/TaraSainath/'>Tara Sainath</td>
-      <td href='https://www.clsp.jhu.edu/faculty/shinji-watanabe/'>Shinji Watanabe</td>
+      <td style="text-align:center" href='https://www.cse.iitm.ac.in/~hema/'>Hema Murthy</td>
+      <td style="text-align:center" href='http://www.ee.iitm.ac.in/~umeshs/'>S. Umesh</td>
+      <td style="text-align:center" href='https://research.google/people/TaraSainath/'>Tara Sainath</td>
+      <td style="text-align:center" href='https://www.clsp.jhu.edu/faculty/shinji-watanabe/'>Shinji Watanabe</td>
     </tr>
     <tr>
-      <td>IIT Madras</td>
-      <td>IIT Madras</td>
-      <td>Google Inc.</td>
-      <td>Johns Hopkins University</td>
+      <td style="text-align:center">IIT Madras</td>
+      <td style="text-align:center">IIT Madras</td>
+      <td style="text-align:center">Google Inc.</td>
+      <td style="text-align:center">Johns Hopkins University</td>
     </tr>
   </tbody>
 </table>
