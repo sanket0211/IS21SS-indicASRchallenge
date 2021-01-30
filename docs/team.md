@@ -1,8 +1,7 @@
 <br>
 
-<!--Table-->
 <table id="tablePreview" class="table">
-<!--Table head-->
+
   <tbody>
     <tr>
       <td><img src="{{ relative_root_path}}/assets/persons/hema_murthy.jpg" alt="" border=3 height=100 width=100></img></td>
@@ -26,16 +25,6 @@
   <!--Table body-->
 </table>
 <!--Table-->
-
-
-
-
-
-
-
-
-
-
 
 
 

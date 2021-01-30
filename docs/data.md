@@ -1,12 +1,8 @@
 <br>
 <h2> Data description and specifications </h2>
-
-      
-<!--Table-->
 <table id="tablePreview" class="table table-striped table-sm">
-<!--Table head-->
-  <thead>
-    <tr>
+  <tbody>
+  <tr>
       <th>#</th>
       <th>Description</th>
       <th></th>
@@ -165,6 +161,5 @@
       <td></td>
     </tr>
   </tbody>
-  <!--Table body-->
 </table>
-<!--Table-->
+
