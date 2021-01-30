@@ -4,9 +4,9 @@
   <tbody>
     <tr>
       <td><img src="./assets/img/persons/hema_murthy.jpg" alt="" border=3 height=100 width=100></img></td>
-      <td><img src="https://github.com/navana-tech/IS21SS-indicASRchallenge/blob/gh-pages/docs/assets/img/persons/s_umesh.jpg" alt="" border=3 height=100 width=100></img></td>
-      <td><img src="https://github.com/navana-tech/IS21SS-indicASRchallenge/blob/gh-pages/docs/assets/img/persons/tara_sainath.jpg" alt="" border=3 height=100 width=100></img></td>
-      <td><img src="https://github.com/navana-tech/IS21SS-indicASRchallenge/blob/gh-pages/docs/assets/img/persons/shinji_watanabe.jpg" alt="" border=3 height=100 width=100></img></td>
+      <td><img src="./assets/img/persons/s_umesh.jpg" alt="" border=3 height=100 width=100></img></td>
+      <td><img src="./assets/img/persons/tara_sainath.jpg" alt="" border=3 height=100 width=100></img></td>
+      <td><img src="./assets/img/persons/shinji_watanabe.jpg" alt="" border=3 height=100 width=100></img></td>
     </tr>
     <tr>
       <td href='https://www.cse.iitm.ac.in/~hema/'>Hema Murthy</td>
