@@ -1,8 +1,9 @@
-<br>
+<br>  
+<h2> Program committee </h2>
 <table id="tablePreview" class="table">
   <tbody>
     <tr>
-      <td><img src="https://github.com/navana-tech/IS21SS-indicASRchallenge/blob/gh-pages/docs/assets/img/persons/hema_murthy.jpg" alt="" border=3 height=100 width=100></img></td>
+      <td><img src="{{ relative_root_path }}/assets/img/persons/hema_murthy.jpg" alt="" border=3 height=100 width=100></img></td>
       <td><img src="https://github.com/navana-tech/IS21SS-indicASRchallenge/blob/gh-pages/docs/assets/img/persons/s_umesh.jpg" alt="" border=3 height=100 width=100></img></td>
       <td><img src="https://github.com/navana-tech/IS21SS-indicASRchallenge/blob/gh-pages/docs/assets/img/persons/tara_sainath.jpg" alt="" border=3 height=100 width=100></img></td>
       <td><img src="https://github.com/navana-tech/IS21SS-indicASRchallenge/blob/gh-pages/docs/assets/img/persons/shinji_watanabe.jpg" alt="" border=3 height=100 width=100></img></td>
@@ -22,8 +23,7 @@
   </tbody>
 </table>
 <p>
-  
-<h2> Program committee </h2>
+
 
 <h5> Hema Murthy, IIT Madras </h5>
 <h5> S. Umesh, IIT Madras </h5> 
