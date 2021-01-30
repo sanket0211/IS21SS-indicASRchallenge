@@ -22,7 +22,6 @@
       <td>Google Inc.</td>
       <td>Johns Hopkins University</td>
     </tr>
-    `
   </tbody>
   <!--Table body-->
 </table>
