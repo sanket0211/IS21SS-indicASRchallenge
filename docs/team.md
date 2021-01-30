@@ -14,7 +14,7 @@
       <td href='https://www.clsp.jhu.edu/faculty/shinji-watanabe/'>Shinji Watanabe</td>
     </tr>
     <tr>
-      <tr>IIT Madras</td>
+      <td>IIT Madras</td>
       <td>IIT Madras</td>
       <td>Google Inc.</td>
       <td>Johns Hopkins University</td>
